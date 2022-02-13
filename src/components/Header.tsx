@@ -1,3 +1,4 @@
+import '../styles/header.scss';
 
 interface HeaderProps {
   selectedGenre: {
